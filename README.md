@@ -1,0 +1,2 @@
+# namora
+namora hook nboy
